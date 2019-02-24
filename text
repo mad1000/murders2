@@ -1,0 +1,4 @@
+we save Us gun murder data collected by FBI
+download_data.R -- downloads csv file to data directory
+wrangle_data.R -- creates a deived dataset amd saves a R object in rda directory
+Analysis.R -- generates a plot adn saves to the figs directory
